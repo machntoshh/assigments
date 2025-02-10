@@ -1,4 +1,4 @@
-# Some exercises that i did on Boot.dev --> https://www.boot.dev
+
 
 def curse(weapon_damage):
     lesser_cursed = weapon_damage * 0.5
